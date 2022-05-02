@@ -1,5 +1,4 @@
 # Bootstrap_Flekenstien
-# Scholarbase-Flekenstein
 <h1 align="center">Hola 👋, soy Fernando flekenstein</h1>
 <h3 align="center">Estudiante de Coderhouse</h3>
 
